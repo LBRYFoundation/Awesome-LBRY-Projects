@@ -72,8 +72,9 @@ A list of community run projects built on and for the LBRY protocol.
 - [LBRYlytics](https://www.lbrylytics.com/) -  A tool to visualize your stats pulled from LBRYio ChainQuery, LBRY API and CryptoCompare public APIs to get your data and is in no way affiliated with LBRY, Inc.
 
 ## LBRY infrastructure monitoring
-- https://status.madiator.com/ - Madiator uptime tracker
-- https://nodes.madiator.com/ - Public LBRY Blockchain Network Overview
+- [Monitored Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=lbc)
+<!-- - https://status.madiator.com/ - Madiator uptime tracker
+- https://nodes.madiator.com/ - Public LBRY Blockchain Network Overview -->
 
 ## Browser extensions
 - Watch on Odysee - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/watch-on-odysee/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-odysee/kofmhmemalhemmpkfjhjfkkhifonoann) [GitHub](https://github.com/kodxana/Watch-on-Odysee) - Plugin that automatically redirects you to the Odysee version of any video on YouTube that is available on Odysee.
@@ -84,8 +85,9 @@ A list of community run projects built on and for the LBRY protocol.
 ## LBC wallets
 - [LBRY Vault for Ledger devices](https://github.com/LBRYFoundation/LBRY-Vault) - Lightweight LBRY Credit client, based on Electrum.
 - [Coinomi](https://www.coinomi.com) - A closeds-source blockchain wallet with LBC support along with 1,700+ more cryptocurrencies.
+- [Komodo](https://komodoplatform.com/en/wallets.html)
 
-## LBC mining pools - [LBRYPools Discord](https://discord.gg/lbrypool)
-- [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
+## LBC mining pools 
+- [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - [LBRYPools Discord](https://discord.gg/lbrypool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
 - [LBRYPool DE](https://lbrypool.de) - A clone of LBRYPool originating in Germany, not affiliated with LBRYPool.net.
 - [ZergPool](https://zergpool.net) - A Multi-Coin Mining Pool based on Yiimp that now supports LBC Mining.
