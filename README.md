@@ -17,11 +17,11 @@ A list of community run projects built on and for the LBRY protocol.
 - [LBC mining pools](#lbc-mining-pools)
 
 ## LBRY clients
+- [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - GTK version of FastLBRY.
 - [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) - A fully featured, terminal application to interact with LBRY. It will allow watching videos, download files, view and send comments, upload new files.
 - [Odysee Unofficial (Roku App)](https://github.com/OdyseeTeam/odysee-roku) - A unofficial Odysee app which is on Roku.
 - [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY.
 - [LBRY App - Community Edition](https://github.com/lbry-foss/lbry-desktop) - A fork of the LBRY desktop app with no analytics and also adds some features back.
-- [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - Another GTK version of FastLBRY.
 - [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser) - Electron based web browser that supports LBRY protocol.
 - [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.
@@ -72,8 +72,9 @@ A list of community run projects built on and for the LBRY protocol.
 - [LBRYlytics](https://www.lbrylytics.com/) -  A tool to visualize your stats pulled from LBRYio ChainQuery, LBRY API and CryptoCompare public APIs to get your data and is in no way affiliated with LBRY, Inc.
 
 ## LBRY infrastructure monitoring
-- https://status.madiator.com/ - Madiator uptime tracker
-- https://nodes.madiator.com/ - Public LBRY Blockchain Network Overview
+- [Monitored Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=lbc)
+<!-- - https://status.madiator.com/ - Madiator uptime tracker
+- https://nodes.madiator.com/ - Public LBRY Blockchain Network Overview -->
 
 ## Browser extensions
 - Watch on Odysee - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/watch-on-odysee/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-odysee/kofmhmemalhemmpkfjhjfkkhifonoann) [GitHub](https://github.com/kodxana/Watch-on-Odysee) - Plugin that automatically redirects you to the Odysee version of any video on YouTube that is available on Odysee.
@@ -84,8 +85,10 @@ A list of community run projects built on and for the LBRY protocol.
 ## LBC wallets
 - [LBRY Vault for Ledger devices](https://github.com/LBRYFoundation/LBRY-Vault) - Lightweight LBRY Credit client, based on Electrum.
 - [Coinomi](https://www.coinomi.com) - A closeds-source blockchain wallet with LBC support along with 1,700+ more cryptocurrencies.
+- [Komodo](https://komodoplatform.com/en/wallets.html)
 
-## LBC mining pools - [LBRYPools Discord](https://discord.gg/lbrypool)
+## LBC mining pools 
+- [General LBRY Pools Discord](https://discord.gg/lbrypool) - A place for any and all LBRY pools.
 - [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
 - [LBRYPool DE](https://lbrypool.de) - A clone of LBRYPool originating in Germany, not affiliated with LBRYPool.net.
 - [ZergPool](https://zergpool.net) - A Multi-Coin Mining Pool based on Yiimp that now supports LBC Mining.
