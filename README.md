@@ -88,6 +88,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [Komodo](https://komodoplatform.com/en/wallets.html)
 
 ## LBC mining pools 
-- [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - [LBRYPools Discord](https://discord.gg/lbrypool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
+- [General LBRY Pools Discord](https://discord.gg/lbrypool) - A place for any and all LBRY pools.
+- [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
 - [LBRYPool DE](https://lbrypool.de) - A clone of LBRYPool originating in Germany, not affiliated with LBRYPool.net.
 - [ZergPool](https://zergpool.net) - A Multi-Coin Mining Pool based on Yiimp that now supports LBC Mining.
